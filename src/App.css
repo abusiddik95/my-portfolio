@@ -1,3 +1,11 @@
+body{
+  font-family: 'Roboto', sans-serif;
+}
+body p{
+  color: #333;
+  font-family: 'Fredoka', sans-serif;
+
+}
 .App {
   text-align: center;
 }

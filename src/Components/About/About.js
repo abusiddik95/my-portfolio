@@ -8,7 +8,8 @@ const About = () => {
             <div className="about-left">
             <div className="a-card bg"></div>
             <div className="a-card">
-                <img className='img-a' src="https://picsum.photos/300/500" alt="" /></div>
+                <img className='img-a' src="https://picsum.photos/300/500" alt="" />
+            </div>
             </div>
             <div className="about-right">
             <h1 className="a-title">About Me</h1>  
